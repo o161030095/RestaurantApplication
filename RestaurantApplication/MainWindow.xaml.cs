@@ -24,5 +24,25 @@ namespace RestaurantApplication
         {
             InitializeComponent();
         }
+
+        private void AddItems_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void PlaceNewOrder_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void UpdateOrder_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void GenerateBill_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
